@@ -330,13 +330,25 @@ This tutorial briefly introduced the basic concepts of SOA and its components. I
 <a name="References"/>
 
 [1] Service Oriented Architecture For Dummies, 2nd IBMLimited Edition
+
 [2] OASIS Reference Model for Service Oriented Architecture 1.0
+
 [3] http://www.omg.org/technology/readingroom/SOA.htm
+
 [4] James Bean, "SOA and Web Services Interface Design: Principles, Techniques, and Standards", 1st edition, Morgan Kaufmann publications, 2009.
+
 [5] Thomas Erl, "SOA Principles of Service Design", 1st edition, Prentice Hall publications, 2007.
+
 [6] Michael Rosen, Boris Lublinsky, Kevin T. Smith, and Marc J. Balcer, "Applied SOA: Service-Oriented Architecture and Design Strategies", 1st edition, Wiley publications, 2008.
+
 [7] Rick Robinson, "The role of the Enterprise Service Bus", IBM developer Works, 2004.
+
 [8] Web Services Handbook for WebSphere Application Server 6.1
+
 [9] A. Coppola, S. Li,” A CASE STUDY OF SERVICE ORIENTED ARCHITECTURE IMPLEMENTATION AND GOVERNANCE”, Proceedings of the 39th Annual Meeting of the Decision Sciences Institute, November 22-25, 2008,pp 5041-5046.
 
 
+## Editors
+
+Mahmoud Mohamed AbdAllah
+* E-mail: mmabdallah@itida.gov.eg

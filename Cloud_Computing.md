@@ -30,7 +30,6 @@ http://www.secc.org.eg/RECOCAPE/Publications.html
  2. http://www.microsoft.com/eu/impact-on-society/multimedia/cloud-power-helping-to-save-and-transform-lives-in-the-worlds-poorest-.aspx  
 
 
-## Editors
+## Editor
 
-Iman Ayman El-Dessouki
-* E-mail: ieldessouky@itida.gov.eg
+Ahmed Gamal
